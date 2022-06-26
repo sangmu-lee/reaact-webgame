@@ -1,0 +1,3 @@
+# Project exclude paths
+/lecture/dist/
+/lecture/node_modules/
